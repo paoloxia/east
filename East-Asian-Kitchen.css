@@ -355,7 +355,7 @@
 
 .u-section-3 .u-text-1 {
   font-size: 2rem;
-  font-family: Roboto, sans-serif;
+  font-family: "Abhaya Libre";
   animation-duration: 1000ms;
   margin: 69px 25px 0;
 }
@@ -521,12 +521,24 @@
   }
 
   .u-section-3 .u-layout-cell-1 {
-    min-height: 310px;
+    min-height: 402px;
   }
 
   .u-section-3 .u-container-layout-1 {
     padding-left: 30px;
     padding-right: 30px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-top: 0;
+  }
+
+  .u-section-3 .u-line-1 {
+    margin-left: auto;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-bottom: 0;
   }
 
   .u-section-3 .u-layout-cell-2 {
@@ -565,6 +577,7 @@
 .u-section-4 .u-text-1 {
   font-size: 2.25rem;
   animation-duration: 1000ms;
+  font-family: "Abhaya Libre";
   margin: 113px 0 0;
 }
 
@@ -750,7 +763,7 @@
 }
 
 .u-section-6 .u-sheet-1 {
-  min-height: 486px;
+  min-height: 326px;
 }
 
 .u-section-6 .u-text-1 {
@@ -759,58 +772,61 @@
 }
 
 .u-section-6 .u-text-2 {
-  margin: 48px auto 60px;
+  font-size: 1.5rem;
+  background-image: none;
+  width: 423px;
+  margin: 34px auto 60px;
 }
 
 @media (max-width: 1199px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 458px;
+    min-height: 305px;
   }
 
   .u-section-6 .u-text-2 {
     width: auto;
     margin-top: 44px;
+    margin-bottom: 48px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 473px;
+    min-height: 300px;
   }
 
   .u-section-6 .u-text-1 {
     width: auto;
-    margin-top: 39px;
+    margin-top: 60px;
   }
 
   .u-section-6 .u-text-2 {
-    margin-top: 46px;
+    margin: 37px 0;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 466px;
+    min-height: 323px;
   }
 
   .u-section-6 .u-text-2 {
-    margin-right: 0;
+    margin-bottom: 60px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 647px;
+    min-height: 342px;
   }
 
   .u-section-6 .u-text-1 {
-    margin-top: 40px;
+    margin-top: 58px;
   }
 
   .u-section-6 .u-text-2 {
     margin-top: 35px;
-    margin-left: 0;
-    margin-bottom: 40px;
+    margin-bottom: 58px;
   }
 }.u-section-7 {
   background-image: none;
@@ -827,7 +843,7 @@
 
 .u-section-7 .u-image-1 {
   min-height: 183px;
-  background-image: url("images/east_logo-removebg-preview.png");
+  background-image: url("images/NIGGALOGO.PNG");
   background-position: 50% 50%;
 }
 
@@ -837,7 +853,6 @@
 
 .u-section-7 .u-layout-cell-2 {
   min-height: 183px;
-  background-image: none;
 }
 
 .u-section-7 .u-container-layout-2 {
@@ -877,7 +892,9 @@
   background-image: none;
   border-style: solid;
   animation-duration: 2500ms;
-  margin: -47px auto 0 201px;
+  font-family: "Abhaya Libre";
+  font-size: 1.25rem;
+  margin: -51px auto 0 196px;
 }
 
 @media (max-width: 1199px) {
